@@ -1,9 +1,24 @@
-Programozási fogalmak: 
-1.DOS cmd.exe: 
---------------------- 
-path: kerseési útvonal 
-prompt: készen áll a parancs fogadására 
-code indírása: "code ." 
+Programozási fogalmak:
+1.DOS cmd.exe:
+---------------------
+path: kerseési útvonal
+prompt: készen áll a parancs fogadására
+code indírása: code .
 2.HTML:
 ---------------------
 style attributum - color property - tulajdonság : red - value 
+crtl-K, crtl-C : megjegyzés
+crtl-k, crtl-u: megjegyzés törlése
+3. HTML Color:
+------------------------
+2 jegyű hex számjegy legnagyobb: #FF -15+15*16= 255
+F0F8FF
+R G B
+R: 00-FF nincs-összes
+G: 00-FF nincs-összes
+B: 00-FF nincs-összes
+FFFFFF: fehér
+000000: fekete
+222-RGB -decimális: 255,99,71
+rgba: 4.rész 0-1 -> 0.5 félig átlátszó, 0-> átlátszó
+Ha mind a 3 RGB kód megeggyezik a szürke árnyalatait kapom
